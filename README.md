@@ -6,7 +6,7 @@
 | :--- | :--- | :--- 
 | SysVinit | Eski (Legacy) | Ketma-ket (Sequential) scriptlarni ishga tushiradi va sekin |
 | Upstart | Eski (Ubuntu) | Voqealarga asoslangan (Event-based) | 
-| systemd | Zamonaviy Standart | Parallel ishga tushadi, va zamonaviy Linux distributionlarda asosiy inint hisblanadi. |
+| systemd | Zamonaviy Standart | Parallel ishga tushadi, va zamonaviy Linux distributionlarda asosiy inint hisblanadi |
 ---
 ## 2. Systemd va 'systemctl' Buyruqlari
 Zamonaviy Linux'da servislarni boshqarish uchun 'systemctl' buyrug'idan foydalaniladi.
