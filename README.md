@@ -3,7 +3,7 @@
 - - -
 ## 1. Asosiy Init Turlari
 | Init Tizimi | Status | Xususiyati | 
-| :--- | :--- | :--- | 
+| :--- | :--- | :--- 
 | SysVinit | Eski (Legacy) | Ketma-ket (Sequential) scriptlarni ishga tushiradi va sekin |
 | Upstart | Eski (Ubuntu) | Voqealarga asoslangan (Event-based) | 
 | systemd | Zamonaviy Standart | Parallel ishga tushadi, va zamonaviy Linux distributionlarda asosiy inint hisblanadi. |
