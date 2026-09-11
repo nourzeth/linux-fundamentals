@@ -1,4 +1,4 @@
-# Linux Init system & Upstar & Systemd
+# Linux Init system & Upstart & Systemd
 > 'init' (initialization) - bu Linux operatsion tizimi yuklaganda (boot sequnce) ishag tushadigan **birinchi jarayon (Process ID = 1)**. U tizimdagi barcha boshqa servis va boshqa jarayonlarni (daemons) boshqaradi. 
 - - -
 ## 1. Asosiy Init Turlari
@@ -21,4 +21,5 @@ sudo systemctl start <service_name>
 sudo systemctl stop <service_name>
 
 # Serviceni qayta yuklash
-sudo systemctl restart <service_name> 
+sudo systemctl restart <service_name>
+```
